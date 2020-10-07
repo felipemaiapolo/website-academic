@@ -24,7 +24,7 @@ interests:
 - Computational Methods in Statistics
 - Machine Learning
 - Bayesian Inference
-- High-Dimensional Statistics
+- High Dimensional Statistics
 
 education:
   courses:
