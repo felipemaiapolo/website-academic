@@ -14,7 +14,7 @@ role: MSc. Student
 
 # Organizations/Affiliations
 organizations:
-- name: Statistics // University of São Paulo
+- name: University of São Paulo
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
